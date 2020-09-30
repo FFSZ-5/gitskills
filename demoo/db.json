@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "pic": "1.jpg",
+      "name": "liu",
+      "gender": "female",
+      "phone": "15527483523",
+      "email": "651828516@qq.com",
+      "introduce": "123465789",
+      "password": "123456",
+      "intr": "hahahaha"
+    },
+    {
+      "id": "2",
+      "name": "admin",
+      "gender": "male",
+      "phone": "15527483521",
+      "email": "651828515@qq.com",
+      "password": "789456",
+      "intr": "hhhhhhhhhhhhhhhhhhhhhhhaahsahsas",
+      "pic": "1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "fan",
+      "gender": "female",
+      "phone": "13971600982",
+      "email": "7@qq.com",
+      "password": "123456",
+      "intr": "456",
+      "pic": "1.jpg"
+    }
+  ]
+}
